@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @Harshsharma1001
+- 👀 I’m interested in making games
+- 🌱 I’m currently learning c language and going to start learn python.
+- 💞️ I’m looking to collaborate on gaming channels
+- 📫 you can reach me by my gmail ID and my youtube channel Demolition technical
+
+
+<!---
+Harshsharma1001/Harshsharma1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
