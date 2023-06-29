@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harshsharma1001
 - 👀 I’m interested in making games
-- 🌱 I’m currently learning c language and going to start learn python.
-- 💞️ I’m looking to collaborate on gaming channels
+- 🌱 I’m currently learning fullstack webdevelopment and going to learn iot from nptel.
+- 💞️ I’m looking to collaborate on gaming channels.
 - 📫 you can reach me by my gmail ID and my youtube channel Demolition technical
 
 
